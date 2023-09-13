@@ -125,4 +125,8 @@
     <string name="refresh_low">60Hz</string>
     <string name="refresh_high">90Hz</string>
     <string name="refresh_extreme">120Hz</string>
+
+    <!-- Xiaomi Parts -->
+    <string name="app_name">Xiaomi Parts</string>
+
 </resources>
